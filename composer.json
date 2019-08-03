@@ -1,7 +1,7 @@
 {
     "name": "zjsy/captcha-lumen5",
     "description": "captcha for lumen",
-    "keywords": ["lumen Captcha", "Captcha", "Captcha for api", "Lumen 5.8+"],
+    "keywords": ["lumen Captcha", "Captcha", "Captcha for api", "Lumen 5.8 upper"],
     "type": "library",
     "license": "MIT",
     "authors": [
